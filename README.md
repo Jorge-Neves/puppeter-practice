@@ -1,2 +1,5 @@
 # puppeter-practice
-Following along with the following youtube tutorial by Lean WebCode ://www.youtube.com/watch?v=lgyszZhAZOI&amp;ab_channel=LearnWebCode
+
+A repo for following along with the "Web Scraping with Puppeteer & Node.js: Chrome Automation" youtube tutorial by Lean WebCode 
+
+(link)[//www.youtube.com/watch?v=lgyszZhAZOI&amp;ab_channel=LearnWebCode]
