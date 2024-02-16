@@ -1,0 +1,23 @@
+{
+  "name": "puppeter-practice",
+  "version": "1.0.0",
+  "description": "A repo for following along with the \"Web Scraping with Puppeteer & Node.js: Chrome Automation\" YouTube tutorial by Lean WebCode:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge-Neves/puppeter-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorge-Neves/puppeter-practice/issues"
+  },
+  "homepage": "https://github.com/Jorge-Neves/puppeter-practice#readme",
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}

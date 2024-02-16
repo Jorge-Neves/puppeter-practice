@@ -1,0 +1,8 @@
+node_modules
+build
+npm-debug.log
+.nyc
+.DS_Store
+
+/public/env-config.js
+env-config.js
